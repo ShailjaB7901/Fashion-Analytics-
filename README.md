@@ -33,6 +33,26 @@ This study is like unraveling a story told by Indian designers in global fashion
 4. Priya Ahluwalia
 
 
+## Methodology
+
+#### Data Collection:
+Fashion articles for 2023 from reputable sources such as Vogue, Grazia, Harper's Bazaar covering Paris, London, and New York Fashion Weeks were scraped Beautiful soup. The focus was on obtaining diverse and representative samples.
+
+#### Data Cleaning and Preprocessing:
+Text data was organized and labeled as separate sentences, then underwent rigorous cleaning procedures to remove irrelevant information, and lemmatization was applied to standardize word forms for analysis. The cleaned text was converted into text files for each, Paris, NewYork and London fashion week.
+
+#### Fashion Term Compilation:
+A list of 600 fashion terms was compiled, incorporating terminology associated with both traditional and contemporary fashion, including fabrics, colours, fashion cuts, textiles, patterns etc.
+
+#### Matching and Frequency Count:
+The compiled fashion terms were matched with the cleaned data, and the frequency of each term was counted to identify the most commonly appearing words.
+The frequency and words were plotted on bar graphs to visualise commonalities, using Matplotlib.
+
+#### Frequency Analysis:
+The top N most frequent terms across all three fashion weeks were identified, indicating potential shared cultural influences.
+
+
+
 
 
 ## Results and discussions
