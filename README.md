@@ -14,20 +14,20 @@ This study is like unraveling a story told by Indian designers in global fashion
 ### Fashion designers in View:
 #### Newyork:
 
-1.Bibhu Mohapatra
-2.Naeem Khan
-3.Mayyur Girotra
-4.Archana Kochhar
+1. Bibhu Mohapatra
+2. Naeem Khan
+3. Mayyur Girotra
+4. Archana Kochhar
 
 #### Paris:
 
-1.Gaurav Gupta
-2.Rahul Mishra
-3.Vaishali Shadangule
+1. Gaurav Gupta
+2. Rahul Mishra
+3. Vaishali Shadangule
 
 #### London:
 
-1.Harri
-2.Supriya lele
-3.Ashish Gupta
-4.Priya Ahluwalia 
+1. Harri
+2. Supriya lele
+3. Ashish Gupta
+4. Priya Ahluwalia 
