@@ -10,3 +10,24 @@ In recent years, the spotlight has intensified on Indian designers participating
 The primary objective of this study is to delve into the textual landscape surrounding Indian designers during Paris, London, and New York Fashion Weeks. By employing advanced text analytics, we aim to unravel the extent to which cultural heritage influences their creative expressions.
 
 This study is like unraveling a story told by Indian designers in global fashion. By spotting shared words and themes, I am contributing insights into how tradition and modern style come together in the world of international fashion.
+
+### Fashion designers in View:
+#### Newyork:
+
+1.Bibhu Mohapatra
+2.Naeem Khan
+3.Mayyur Girotra
+4.Archana Kochhar
+
+#### Paris:
+
+1.Gaurav Gupta
+2.Rahul Mishra
+3.Vaishali Shadangule
+
+#### London:
+
+1.Harri
+2.Supriya lele
+3.Ashish Gupta
+4.Priya Ahluwalia 
