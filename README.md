@@ -18,16 +18,14 @@ In embarking on the project exploring the global fashion landscape and the disti
 
 2. **Cultural Significance:** The project's core purpose is to unravel the cultural narratives embedded in the designs showcased during major fashion weeks in Paris, London, and New York. By leveraging advanced text analytics, I aspire to shed light on how traditional Indian aesthetics merge with contemporary global trends, influencing the broader conversation in the fashion world.
 
-3. **Impact on Design Decision-Making:** Through this exploration, my goal is to highlight the tangible impact of data science on design decision-making. By analyzing trends, sentiments, and cultural influences, I seek to demonstrate how data-driven insights can guide designers in creating resonant and culturally significant collections.
+3. **Recognition of Indian Designers:** Another crucial aspect of this project is to recognize and celebrate the contributions of Indian designers on the global stage. By focusing on names like Bibhu Mohapatra, Gaurav Gupta, and others, I aim to showcase their unique perspectives and emphasize their role as cultural ambassadors, influencing not just fashion trends but also fostering a deeper appreciation for diversity.
 
-4. **Recognition of Indian Designers:** Another crucial aspect of this project is to recognize and celebrate the contributions of Indian designers on the global stage. By focusing on names like Bibhu Mohapatra, Gaurav Gupta, and others, I aim to showcase their unique perspectives and emphasize their role as cultural ambassadors, influencing not just fashion trends but also fostering a deeper appreciation for diversity.
-
-5. **Bridge Between Technology and Fashion:** As a data analyst, I see this project as an opportunity to bridge the gap between technology and the creative fields. By employing methodologies such as text analytics, I hope to contribute to the growing dialogue on how data science can enhance and complement the artistic realm, fostering innovation and pushing the boundaries of design.
+4. **Bridge Between Technology and Fashion:** As a data analyst, I see this project as an opportunity to bridge the gap between technology and the creative fields. By employing methodologies such as text analytics, I hope to contribute to the growing dialogue on how data science can enhance and complement the artistic realm, fostering innovation and pushing the boundaries of design.
 
 In essence, this project serves as a testament to my belief in the transformative power of data science to not only analyze but also appreciate the rich tapestry of cultures woven into the fabric of global fashion. Through this exploration, I aim to inspire a greater understanding of the symbiotic relationship between data science and the creative expression inherent in the world of haute couture.
 
 ### Objective:
-The primary objective of this study is to delve into the textual landscape surrounding Indian designers during Paris, London, and New York Fashion Weeks. By employing advanced text analytics, we aim to unravel the extent to which cultural heritage influences their creative expressions.
+The primary objective of this study is to delve into the textual landscape surrounding Indian designers during Paris, London, and New York Fashion Weeks. By employing advanced text analytics, I aim to unravel the extent to which cultural heritage influences their creative expressions.
 
 This study is like unraveling a story told by Indian designers in global fashion. By spotting shared words and themes, I am contributing insights into how tradition and modern style come together in the world of international fashion.
 
