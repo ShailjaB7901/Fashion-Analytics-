@@ -6,9 +6,6 @@ The global fashion landscape is an ever-evolving tapestry woven with threads of 
 
 In recent years, the spotlight has intensified on Indian designers participating in major fashion weeks, such as those held in Paris, London, and New York. These designers bring a unique perspective, blending rich cultural heritage with cutting-edge fashion trends. Recognizing the profound impact of cultural narratives in fashion, this study endeavors to dissect the nuanced interplay between tradition and modernity within the works of Indian designers on the global stage.
 
-Certainly! Here's a sample purpose statement for your project on the global fashion landscape and the contributions of Indian designers:
-
-
 
 **Purpose Statement: Exploring the Intersection of Data Science and Fashion**
 
