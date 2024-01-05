@@ -68,7 +68,7 @@ The frequency and words were plotted on bar graphs to visualise commonalities, u
 #### 5. Frequency Analysis:
 The top N most frequent terms across all three fashion weeks were identified, indicating potential shared cultural influences.
 
-However, The code for this (which I previously published) was not only extensive, but also involved a lot of manual work. As I would have to read through each article and sentence and select which ones to delete. This could result in not only important information being deleted, but also excess text from advertisements interefering with the integrity of the results. Which is why I made the following modifications:
+#### However, The code for this (which I previously published) was not only extensive, but also involved a lot of manual work. As I would have to read through each article and sentence and select which ones to delete. This could result in not only important information being deleted, but also excess text from advertisements interefering with the integrity of the results. Which is why I made the following modifications:
 
 #### 1. Using newspaper3k library for the cleaning tasks
 
