@@ -50,6 +50,8 @@ This study is like unraveling a story told by Indian designers in global fashion
 
 ## Methodology
 
+### Previously employed methodology:
+
 #### 1. Data Collection:
 Fashion articles for 2023 from reputable sources such as Vogue, Grazia, Harper's Bazaar covering Paris, London, and New York Fashion Weeks were scraped Beautiful soup. The focus was on obtaining diverse and representative samples.
 
@@ -66,7 +68,16 @@ The frequency and words were plotted on bar graphs to visualise commonalities, u
 #### 5. Frequency Analysis:
 The top N most frequent terms across all three fashion weeks were identified, indicating potential shared cultural influences.
 
+However, The code for this (which I previously published) was not only extensive, but also involved a lot of manual work. As I would have to read through each article and sentence and select which ones to delete. This could result in not only important information being deleted, but also excess text from advertisements interefering with the integrity of the results. Which is why I made the following modifications:
 
+#### 1. Using newspaper3k library for the cleaning tasks
+
+I discovered Newspaper3k and implemented the 'Article' module to perform the cleaning tasks. This ensured only title and main article contents got scraped. There was no longer a need to read through entire document to delete irrelevant content or messy formatting. 
+
+
+#### 2. Creating my own library, pyFashion.
+
+Within the library I created a module "Fashionanalyzer" which takes provided text, lemitizes it, and matches it with the inbuilt fashion vocabulary words, and returns the frequency of each word. This shortened and made the code a lot cleaner, because there is no loner a need to write nested functions that split the text and lemmitize it. pyFashion has spacy dependencies to do it. 
 
 
 
@@ -76,11 +87,8 @@ The top N most frequent terms across all three fashion weeks were identified, in
 
 A parallel narrative unfolds with the second prominent trend — *draping*. This owes its prominence to the iconic saree, an integral element of Indian culture. Each state contributes its unique style to the art of saree draping. Additionally, the shawl, introduced to India by Persian settlers in the late 14th century, adds another layer of cultural richness.
 
-A striking commonality observed across all three trends is the prominence of the color *Pink*. The genesis of this trend can be linked to the rise of ‘Barbiecore’ with Margot Robbie’s Barbie release in June 2023. Furthermore, Valentino's introduction of a series of hot pink garments during Paris Fashion Week for fall/winter 22/23 heightened the influence of this color. The ripple effect from major fashion houses significantly impacting smaller designers manifested in Pink emerging as a dominant trend in Paris Fashion Week 2023, surpassing other fashion weeks.
-Delving into the cultural significance within the Indian context, pink holds a special place as an auspicious color associated with the goddess of Wealth, Laxmi. As Juggernaut aptly notes, "before Barbiecore came Rani pink," emphasizing the enduring cultural relevance of pink as an essential component in women’s festive wear in India.
-
 In conclusion, the exploration of prevailing trends among Indian designers on the global stage illuminates not only their profound connection with the country's rich cultural heritage but also their ability to transcend borders and captivate international audiences. The mastery of embroidery and the art of draping, deeply rooted in India's historical tapestry, showcase the designers' commitment to preserving tradition while embracing innovation.
 
 As these designers navigate the global fashion landscape, their influence goes beyond trends; it becomes a cultural dialogue, fostering a deeper appreciation for the diversity and craftsmanship inherent in Indian fashion. The incorporation of iconic elements like the saree and the infusion of Persian-inspired drapery exemplify the designers' artistry in blending cultural narratives seamlessly.
-Moreover, the choice of the color pink as a common thread across their works underscores the designers' nuanced understanding of both global fashion currents and the profound cultural symbolism that resonates within India. This harmonious interplay between tradition and contemporary influences positions Indian designers as cultural ambassadors on the world stage.
+
 In an era where the fashion industry is increasingly recognizing and celebrating diversity, Indian designers shine as beacons of creativity and heritage. Their contributions not only elevate the global fashion conversation but also serve as a testament to the enduring allure of India's cultural tapestry, leaving an indelible mark on the world of haute couture. As the global fashion stage continues to evolve, the influence of Indian designers promises to be an integral and ever-expanding chapter in the narrative of global fashion.
