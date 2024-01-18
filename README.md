@@ -77,7 +77,7 @@ I discovered Newspaper3k and implemented the 'Article' module to perform the cle
 
 #### 2. Creating my own library, pyFashion.
 
-Within the library I created a module "Fashionanalyzer" which takes provided text, lemitizes it, and matches it with the inbuilt fashion vocabulary words, and returns the frequency of each word. This shortened and made the code a lot cleaner, because there is no loner a need to write nested functions that split the text and lemmitize it. pyFashion has spacy dependencies to do it. 
+Within the library I created a module "Fashionanalyzer" which takes provided text, lemitizes it, and matches it with the inbuilt fashion vocabulary words, and returns the frequency of each word. This shortened and made the code a lot cleaner, because there is no longer a need to write nested functions that split the text and lemmitize it. pyFashion has spacy dependencies to do it. 
 
 
 
